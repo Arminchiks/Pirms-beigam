@@ -1,0 +1,21 @@
+body{
+    background-image:url("http://www.1182.lv/media/entry_images/ARENAPIC.jpg") ;
+    height: 630px;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+    color: rgb(241, 6, 6);
+}
+
+
+
+a.inlined {
+    display: inline;
+    font-size: 60px;
+    white-space: nowrap;
+    color: aliceblue;
+    margin-left: 165px;
+    
+}
